@@ -6,7 +6,6 @@
 - 📚 learning Node.js, python, Flutter and Java
 ---
 
-![newyear](https://media.giphy.com/media/CezXuieSq6MvMltlse/giphy.gif)
 
 <br/>
 
