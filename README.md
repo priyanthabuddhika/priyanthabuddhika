@@ -1,12 +1,5 @@
 ### Hello world! 👋 I'm Priyantha Buddhika, Yeah I know you can see my name on github. But here i am
 
----
-
-- 🎓 I’m currently an undergraduate at University of Sri jayawardenepura
-- 📚 learning Node.js, python, Flutter and Java
----
-
-
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=priyanthabuddhika&&show_icons=true&title_color=fff&icon_color=blue&text_color=daf7dc&bg_color=151515)
